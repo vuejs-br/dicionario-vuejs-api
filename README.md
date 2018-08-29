@@ -12,8 +12,8 @@ Playlist no [Canal do Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU
 
 ## Estrutura
 
-- [name]() ♨️ [issue]()
-- [delimiters]() ♨️ [issue]()
+- [name]() ♨️ [issue](https://github.com/ktquezplay/vuejs-api-o-que-voce-precisa-saber/issues/1)
+- [delimiters]() ♨️ [issue](https://github.com/ktquezplay/vuejs-api-o-que-voce-precisa-saber/issues/1)
 - [data]() ⌛
 - [methods]() ⌛
 - [computed]() ⌛
@@ -24,7 +24,7 @@ Playlist no [Canal do Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU
 
 ## Estrutura DOM
 
-- [el]() ♨️ [issue]()
+- [el]() ♨️ [issue](https://github.com/ktquezplay/vuejs-api-o-que-voce-precisa-saber/issues/1)
 - [render & renderError]() ⌛
 
 ## Lifecycle Hooks
