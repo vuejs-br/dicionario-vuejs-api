@@ -140,7 +140,7 @@ Qualquer dev Vue.js pode escolher um tema e gravar um vídeo.
 ### Passos
 
 - Escolher um tema;
-- Verificar se existe uma issue aberta por algum dev, se não, abrir uma issue informando-nos do seu interesse por ele;
+- Verificar se existe uma issue aberta por algum dev, se não, abrir uma issue nos informando de seu interesse por ele;
 - Baixe a intro que será disponibilizada em breve;
 - Dê uma olhada nos moldes que os primeiros vídeos estão sendo gravados;
 - Agora basta você gravar, editar (com a intro) e nos enviar;
