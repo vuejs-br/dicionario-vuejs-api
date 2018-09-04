@@ -1,4 +1,4 @@
-# Vue.js API - O que você precisa saber
+# Dicionário Vue.js API
 
 Playlist no [Canal do Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU3Y0-Tpv97oAxw) com Vídeos detalhando as entranhas da API do Vue.js com exemplos reais de uso e 
 
