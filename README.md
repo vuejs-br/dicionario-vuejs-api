@@ -135,13 +135,13 @@ Playlist no [Canal do Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU
 
 # Como contribuir
 
-Qualquer dev Vue.js pode escolher um tema e gravar um vídeo.
+Qualquer desenvolvedor ou desenvolvedora Vue.js poderá escolher um tema e gravar o vídeo.
 
 ### Passos
 
-- Escolher um tema;
+- Escolher o tema;
 - Verificar se existe uma issue aberta por algum dev, se não, abrir uma issue nos informando de seu interesse por ele;
-- Baixe a intro que será disponibilizada em breve;
+- Baixe a introdução que será disponibilizada em breve;
 - Dê uma olhada nos moldes que os primeiros vídeos estão sendo gravados;
 - Agora basta você gravar, editar (com a intro) e nos enviar;
 - A curadoria aprovará seu vídeo e será publicado no canal do Vue.js Brasil;
