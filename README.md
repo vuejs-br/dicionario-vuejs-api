@@ -139,7 +139,7 @@ Qualquer desenvolvedor ou desenvolvedora Vue.js poderá escolher um tema e grava
 
 ### Passos
 
-- Escolher o tema;
+- Escolher um item (Se um item tiver ligado ao outro, pode fazer 1 só vídeo com mais de um item)
 - Verificar se existe uma issue aberta por algum dev, se não, abrir uma issue nos informando de seu interesse por ele;
 - Baixe a introdução que será disponibilizada em breve;
 - Dê uma olhada nos moldes que os primeiros vídeos estão sendo gravados;
