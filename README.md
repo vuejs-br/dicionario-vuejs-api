@@ -1,6 +1,6 @@
 # Dicionário Vue.js API
 
-Playlist no [Canal do Vue.js Brasil](https://www.youtube.com/channel/UC9DvZyV1QU3Y0-Tpv97oAxw) com Vídeos detalhando as entranhas da API do Vue.js com exemplos reais de uso.
+Playlist de vídeos para o canal do Youtube, detalhando as entranhas da API do Vue.js com exemplos reais de uso.
 
 # Cronograma da playlist
 
