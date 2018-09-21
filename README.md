@@ -48,27 +48,27 @@ Playlist de vídeos para o canal do Youtube, detalhando as entranhas da API do V
 
 ## Intance properties
 
-- [$vm.$data]() ⌛
-- [$vm.$props]() ⌛
-- [$vm.$el]() ⌛
-- [$vm.$options]() ⌛
-- [$vm.$root]() ⌛
-- [$vm.$slots]() ⌛
-- [$vm.$scopedSlots]() ⌛
-- [$vm.$refs]() ⌛
-- [$vm.$isServer]() ⌛
-- [$vm.$attrs]() ⌛
-- [$vm.$listeners]() ⌛
-- [$vm.$watch]() ⌛
-- [$vm.$set]() ⌛
-- [$vm.$delete]() ⌛
-- [$vm.$on]() ⌛
-- [$vm.$once]() ⌛
-- [$vm.$off]() ⌛
-- [$vm.$emit]() ⌛
-- [$vm.$forceUpdate]() ⌛
-- [$vm.$nextTick]() ⌛
-- [$vm.$destroy]() ⌛
+- [vm.$data]() ⌛
+- [vm.$props]() ⌛
+- [vm.$el]() ⌛
+- [vm.$options]() ⌛
+- [vm.$root]() ⌛
+- [vm.$slots]() ⌛
+- [vm.$scopedSlots]() ⌛
+- [vm.$refs]() ⌛
+- [vm.$isServer]() ⌛
+- [vm.$attrs]() ⌛
+- [vm.$listeners]() ⌛
+- [vm.$watch]() ⌛
+- [vm.$set]() ⌛
+- [vm.$delete]() ⌛
+- [vm.$on]() ⌛
+- [vm.$once]() ⌛
+- [vm.$off]() ⌛
+- [vm.$emit]() ⌛
+- [vm.$forceUpdate]() ⌛
+- [vm.$nextTick]() ⌛
+- [vm.$destroy]() ⌛
 
 
 ## Diretivas
